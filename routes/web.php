@@ -17,7 +17,7 @@ use App\Http\Controllers\CommentaireController;
 |
 */
 
-// Route::get('/', function () {
+// Route::get('/jajajajaaj', function () {
 //     return view('welcome');
 // });
 
